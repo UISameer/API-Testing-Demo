@@ -1,10 +1,3 @@
-//
-//  API_TestingUITests.swift
-//  API-TestingUITests
-//
-//  Created by Sameer Personal on 12/12/23.
-//
-
 import XCTest
 
 final class API_TestingUITests: XCTestCase {
